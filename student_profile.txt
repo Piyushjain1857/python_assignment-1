@@ -1,0 +1,9 @@
+-------- STUDENT PROFILE --------
+Name: aa
+Roll No: 12
+Course: ss
+University: ss
+City: ss
+Age: 23
+Hobby: ss
+---------------------------------
