@@ -4,7 +4,7 @@
 # Semster: 1st
 # Subjet: Problem Solving with Python
 # Assignment: Unit-1 Mini Project
-# Title: Studnt Profile Appl
+# Title: Student Profile 
 # Date: 13 Nov 2025
 
 print("WELCOM TO STUDNT PROFILE APP")
