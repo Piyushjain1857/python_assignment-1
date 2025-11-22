@@ -1,9 +1,9 @@
 -------- STUDENT PROFILE --------
-Name: aa
-Roll No: 12
-Course: ss
-University: ss
-City: ss
-Age: 23
-Hobby: ss
+Name: Piyush Jain
+Roll No: 2501060053
+Course: BCA(Ai&Ds)
+University: Kr Mangalam University
+City: Gurugram
+Age: 18
+Hobby: Playing Chess
 ---------------------------------
